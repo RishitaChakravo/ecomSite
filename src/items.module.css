@@ -1,0 +1,31 @@
+.item{
+    border: 1px solid black;
+    padding: 1rem;
+    text-align: center;
+}
+.item button{
+    padding: 0.2rem 1.3rem;
+    background-color: green;
+    border-radius: 5px;
+}
+
+.addedItem{
+    border: 1px solid black;
+    margin: 0.6rem;
+    text-align: center;
+    border-radius: 5px;
+    padding : 1rem;
+}
+.buy{
+    padding: 0.2rem 1.3rem;
+    background-color: green;
+    border-radius: 5px;
+    width: 100%; 
+}
+.buy:hover{
+    background-color: rgb(9, 158, 9);
+}
+.buy:active{
+    background-color: rgb(18, 170, 18);
+}
+

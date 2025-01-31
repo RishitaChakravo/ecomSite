@@ -1,0 +1,13 @@
+.body{
+    display: flex;
+    justify-content: center;
+    height: 98vh;
+    width: 98vw;
+}
+.items{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap : 3%;
+    row-gap: 1%;
+    width: 98vw;
+}
