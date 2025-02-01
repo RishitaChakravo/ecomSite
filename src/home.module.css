@@ -1,0 +1,20 @@
+.container{
+    background-color: rgb(13, 44, 57);
+    padding: 2rem;
+}
+.title{
+    width: 50vw;
+    text-align: center;
+    font-size: 4.5rem;
+    border: 3px double white;
+    padding: 3rem;
+    color: white;
+    margin: 0 auto;
+}
+.subtitle{
+    width: 50vw;
+    text-align: center;
+    font-size: 1.4rem;
+    color: white;
+    margin: 0 auto;
+}
