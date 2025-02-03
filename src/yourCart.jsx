@@ -11,7 +11,7 @@ function YourCart(){
     } 
     
     return(
-        cartItems.length === 0 ? "Your cart is empty" :
+        cartItems.length === 0 ? <p className={style.msg}> ): Your cart is empty :( </p> :
         <ul style={{listStyle: 'none'}}>
             {cartItems.map((item, index) => (
                           <li key={index} className={style.addedItem}>

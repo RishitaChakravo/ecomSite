@@ -18,3 +18,25 @@
     color: white;
     margin: 0 auto;
 }
+.image{
+    background-image: url("image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    padding: 0.4rem;
+}
+.info{
+    width: 50%;
+    padding: 0.4rem;
+    margin: 0.2rem;
+    text-align: center;
+    color: white;
+    border: 1px solid white;
+    backdrop-filter: blur(1px);
+    background-color: rgba(0, 0, 0, 0.345);;
+}
+.main{
+    font-size: 2.5rem;
+    font-weight: bold;;
+}

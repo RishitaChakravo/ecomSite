@@ -28,4 +28,10 @@
 .buy:active{
     background-color: rgb(18, 170, 18);
 }
+.msg{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(147, 147, 147);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.219);
+}
 
